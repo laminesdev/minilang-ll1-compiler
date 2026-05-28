@@ -137,7 +137,3 @@ Stack: [$ Program]     Input: int x; y = 5; ...
 - **SemanticAnalyzer.java**: Type and symbol checking
 - **CodeGenerator.java**: C code output
 - **Main.java**: Entry point and phase orchestration
-
-## License
-
-Educational project for compiler construction course.
